@@ -1,0 +1,26 @@
+{
+  "name": "Ethel Moran",
+  "age": 21,
+  "address": {
+    "street": "Kefbat Parkway",
+    "city": "Berukep",
+    "state": "DE",
+    "zip": "51750"
+  },
+  "contact": {
+    "phone": "(814) 929-4234",
+    "servicePhone": "800158285"
+  },
+  "birthday": "1998-10-27T02:16:41.592Z",
+  "ip": "152.128.122.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Nonir bof jujinez lavlo ukacubhut efa ugochig jucweviv siccirin zo ec ri zo ziis coomumu pupimosi eszorvuv vot. Pesjun muf az van tikepu row lolaj wo oja faltafuk gufo emihowhe icbi ac jaewi buog. Vi be wesve ig giz nom ur romocrag ba mumtuzi utle muti ogzimo biwikoz megeku lebat. Nozegmu vaciwvi dagdeih gidzoet golfazam nosop urtujsi sastu urevurjol bikolu vepuho eduvi. Unzajzi jobsanliw iwoiguus kegpavot vewefso ke va fazi vugam bocrukel di jabje lukre fom hejed jow zis gavadum. Ra herne ziko kulkueve wu jeubeip wutgicga sevovi otjod va leejceg ifane uva. He gegire woefi ruhah ojilavek cupo fuvga ecpagpoj tetud dofom wif gisic zoka lovsa vub mim il wovnec.",
+    "bio": "Esnamom jo fo iviwace ov ebca giwemah vuveko zobuni zab curucbit eji tutib fawek uki. Kadittil cep rafvojpi firumip fa agufu wohtoc cavdah licji jesupto kuhubaguz zaczajbu ru tu zop. Li tadihu fopehas menes kekup meb vucapi pihgu ca abeparis oka sit go agkepuc zak. Ta otuelecek dibegla inajuh umokorad meji erropi evo dafremsi uj oh bakojpe emo ute da ju iseevero icco. Vaj ro iso wumsoh ivbopvu sezal uditnu cibfo mebetuece tovmug zel neonavu juwad solkezaw deduslo."
+  },
+  "apiKey": "b40c0c60a6c807a66af538621b82e86c036513d0f146a778b8475f0d60473585",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
