@@ -1,0 +1,26 @@
+{
+  "name": "Lena Carr",
+  "age": 31,
+  "address": {
+    "street": "Sowi Boulevard",
+    "city": "Makephot",
+    "state": "MT",
+    "zip": "58352"
+  },
+  "contact": {
+    "phone": "(675) 656-5490",
+    "servicePhone": "800862349"
+  },
+  "birthday": "1964-10-03T10:58:27.603Z",
+  "ip": "189.138.128.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Laat daesaasa ba worafda cu ganjove cerbeled wu beadalem zelavtu malup waodewe eji pe hoswuk letu wibehmog kuko. Huah dahwama juha vuvofesuj kelefvur hedzo abu hilnopa tildu rur feeto ol. Zi urzamu roh garsupod pud tu sobese pogtemed zijtavwa potu ref gocse. Vozifu maafegi tetmiw sit buz mez teig li ohafa azeseim mugibol pu ibbiwdig venafo jukwobseb azjuz ritam.",
+    "bio": "Moenvih puthebtah se ef vuk sevwa vigij ebogetes nukik pud jedtap sumeggeg ajeorjih uhwa hic. Dic no hazjapod cej lanlodot pavo vu ippocag enez duzele cewa zawog borim cigta ano sabmihaj. La jurub sulvaw tafka toz makov iwson sih do wif bujibah awhihja ud cishene rugjag."
+  },
+  "apiKey": "e000e0abf0acfe83ab6424adb2b6681e7d68397e0c62471a62568b37c830cb26",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
