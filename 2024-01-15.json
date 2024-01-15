@@ -1,0 +1,26 @@
+{
+  "name": "Ronald Richardson",
+  "age": 48,
+  "address": {
+    "street": "Katut Turnpike",
+    "city": "Viiduga",
+    "state": "RI",
+    "zip": "57320"
+  },
+  "contact": {
+    "phone": "(519) 836-7802",
+    "servicePhone": "800271346"
+  },
+  "birthday": "1998-06-30T08:29:42.802Z",
+  "ip": "252.155.97.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Mame le nubguchew ektoji jofji tuovro ez ih da hifagef cuhaabi su puudipuf upniz. Ziub filag rehmi fis bajvus uwecadje epu zi jagew az gewzehar hudocret ga ozifo vo biw moj. Izivzim sigaru uku hatse bu sopumih do tudurwer it zahko mojon du seecozit wev fab.",
+    "bio": "Kep nunreb bomzo pe ivuwaove mo ena dilveb la arpa nov cuar zuz. Ni miuzate tehkula mihip mimuv fibez isgobhoh dunir ir ukpo vuvaamu vadried ra doco evcek. Doju ebawose nuganu bopnapem mirizezo meovazi gew socjel wafnu jagide at tocomodos zeumune goge fedat ji ibuogigon."
+  },
+  "apiKey": "6708ff9461c3f2bbcef9e526bf1582afc3aeda88b4a97ecd5228a5a2482e3a15",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
