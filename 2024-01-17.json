@@ -1,0 +1,26 @@
+{
+  "name": "John Brock",
+  "age": 34,
+  "address": {
+    "street": "Dahwud Highway",
+    "city": "Welnejpi",
+    "state": "IL",
+    "zip": "41389"
+  },
+  "contact": {
+    "phone": "(276) 629-5227",
+    "servicePhone": "800991237"
+  },
+  "birthday": "2006-01-03T06:01:42.919Z",
+  "ip": "69.16.61.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuk filoit juvmep doksomece zalej powule ubuzigot ciz gi feraisa acasi tawcugoj. Fu puwoiko dod fe wu gohi eni ap wam pem hevdical hi ilerieb sajahifes ip ap. Domgodop wup lanrig com sulag tiz med susbas mavifwa rudu lizot aliaju ogi badhipdi fagonev. Kub wo disju ethawul ha vopgomrab huno sewliwnig ti bomooje lorezbo cireguh keszamam korane apo. Wihid gorjecu kisasbi bobwacma zimgosa refjopasu gilizro zagagiv ip calban zej dazivwuk pil ucki jakunel buw sumjev.",
+    "bio": "Ov jemaubi sutcapkod kagun ugo edu adti pe cowuhdus mobok few zimbior agovov tilehmu pu bot zo rojmuze. Ru oropi ul guubuih elotovo je rora peecoek hi vitiw vudbe gonilneg eju nikafob rocjuw jo. Ajijad musik dumsutjok icame tugbizme mujenal ub bep cegnar gape vif gaobace ajacecu deg nailipim. Ah pucewavuf owe cewvog ivudiz vos ec mintolir fihuc sole otliziv zosucoh ruladuv wit kih."
+  },
+  "apiKey": "aed66e631c2aa484d54a73f70ef8be4fa3791e165215343f2719886476d61ac0",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
