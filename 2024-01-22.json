@@ -1,0 +1,26 @@
+{
+  "name": "Mittie Harper",
+  "age": 35,
+  "address": {
+    "street": "Caba Street",
+    "city": "Edrocus",
+    "state": "NC",
+    "zip": "39850"
+  },
+  "contact": {
+    "phone": "(414) 932-1725",
+    "servicePhone": "800822824"
+  },
+  "birthday": "1978-05-16T12:42:39.656Z",
+  "ip": "231.161.143.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Gaoke darsogvoh alebut wufisas ibewo haun gelgi ocu sewkiftaw guksoc recjup cifan fe. To agadref warniatu ralo focapzor duleozo uj dite gekuc cekeriga mimzoczob nov de serek lehenuku bob irju. Be umi woojiz anfokzu um uvhu espov kuvheed iva saiv zef doz tabif. Upa wuge defa noor bi dov kijrute zeljuz denzif raovoliz kih bivozoh bem kepurib. Wenmu cisiw muv sewem mo mufeh itozuwep wek pifgehucu dorig pi ti.",
+    "bio": "Laet ul sigfewwa fan nodenad fum uhoh lucesi uk offoh rapu cu lardeppu sesifmiw bizi. Fonatgaw wajir hiwludvo coczono noz davi am tacegok sudumuj giblolho vawternu we zofucciz be asinah. Komopsow ledfu mebba vu doj ipowok te apluop go umli we tatsuk. Hanhi vevali fo jigav werunno de picrussu ofe vovwabka hesepul pi tuckipo ihu vinelaho mebobbup zirto obriwpi. Fiekrib fecu sanigo pivohru suvzownen ulgega vosjak ukorotda daakiila jikletif vokiggac neladeb edobera ne nedtog rek am."
+  },
+  "apiKey": "c1dd1a13fea764203da0eb42f5ab71d35646de7f0aec74ad337e6e2e5421ac7a",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
