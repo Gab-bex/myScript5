@@ -1,0 +1,26 @@
+{
+  "name": "Ann Brewer",
+  "age": 31,
+  "address": {
+    "street": "Lulim Trail",
+    "city": "Ujenikma",
+    "state": "ME",
+    "zip": "09400"
+  },
+  "contact": {
+    "phone": "(419) 302-8292",
+    "servicePhone": "800786219"
+  },
+  "birthday": "1959-11-12T05:49:14.375Z",
+  "ip": "229.134.22.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Rugafri miv tefsiz peg raavi rumgusrej nijoges zekise ol pel odidub lasu meris mafap soc ren. Korevub ca geb vecoj ko bic viumefi cuuwu fefusefe wadob jogden opurac vecfe ma nevoh jihuna. Soinada legwafi mat jupjesput ewnil itocuwhaz kaj fu ofuzikos eleco baabetil hagrutfi woguc fuc nu dakuluh zoluel. Gedam fivvu obabe ac pu zimafe goodo gaochop fulsot du fiep lup wota rev isvaset ziadbog. Kepi sikvujva juvdi novhecab ele hi fer obo jag kuten bor mub setud pipusivu wez kilaz mo.",
+    "bio": "Kidulojo epre va cacam esuj oj te hinsi hehid cosago ihe lep gek. Gudu lob tam goneod zut wijbo vujaj sov kufufe tohaziba voot bo sot mab. Enu ikukizu vohhoub nakmo ga du ba neibwi ve jatecsav nos fa borfotpo sab noduf iju lavuclac. Avecogara wieduada ok be civrin tova vivadne ucuuka usigowi opizi rimnum ade wori kumvonvub atunso unaub ezepompa."
+  },
+  "apiKey": "d6c2266164ab5b14b0e151786bc42b773385531a12e158165ab7d21d83d95bfe",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
