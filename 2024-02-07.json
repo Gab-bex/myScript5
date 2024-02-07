@@ -1,0 +1,26 @@
+{
+  "name": "Chris Goodman",
+  "age": 32,
+  "address": {
+    "street": "Hehe Mill",
+    "city": "Radewzum",
+    "state": "AK",
+    "zip": "07528"
+  },
+  "contact": {
+    "phone": "(978) 966-2553",
+    "servicePhone": "800828574"
+  },
+  "birthday": "1978-10-24T08:24:19.751Z",
+  "ip": "142.241.154.189",
+  "foo": "bar",
+  "profile": {
+    "about": "Cohaton simodfip ma ar suwzi ula gelit fow teco tocif osa ot zumge. Mad hefva ho kinnejto nog us evi veido rujvuvuh uvfis fi citse aju. Kaddu tuabe mola rabok haw nuthi ebalesi vabe fuluc sagilov fetbebzar zuvis ke kuzlushe hifaz adi.",
+    "bio": "Neteb ket suwmerdo red sine neta sufzu ke jedel otzunuc diruko joz. Wifban fewaw suwcagcuj ed unabab siibpo iliconnuk kada wib rafup ukieleure zuepadej azmoche di dic voksic. Wocilo sehwoj ige te pem dopi ci hafi deage sisdemu funbe foc fotusaf lob ma."
+  },
+  "apiKey": "b8fb4f8e0e37cc1634573d25d6f885aaa47d6a4ac7202f5d976b5758528665c9",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
