@@ -1,0 +1,26 @@
+{
+  "name": "Ethan Sharp",
+  "age": 54,
+  "address": {
+    "street": "Pezuk Junction",
+    "city": "Javufha",
+    "state": "NM",
+    "zip": "74855"
+  },
+  "contact": {
+    "phone": "(583) 411-5303",
+    "servicePhone": "800124584"
+  },
+  "birthday": "1987-06-28T08:22:07.418Z",
+  "ip": "96.86.113.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Vean suffevvar akgi tu haslaek tude vuop ka lonu obihiv kefepizom ama alurarzaz cah mob con. Inipusvej pobevu coshasem escu iremit vajje cak ob hohlowhu sa filmifit ukuhfib la uwoha jilpavfan. Lo ufo tirsel lapfoki nidsizij hef bauc janeop dof bim di tutigi weku.",
+    "bio": "Folfob rohbih dumak ud uh uporolsu korza riim miditlez gezlo ufi melewuk kizdusa pac. Jupaclu pe vu inekuge mutov vin ji uko dijo nus sif udoliji ti ra as tuwlu jac. Wod voumodo zuckelbu lazug ol riso fofum cufnesis ri eki zururel dok. Ga le lijwic reguc sajneso kedib ra gurel evedaf obeuviac div ame elwiv. Of voh de sunik fecvo luozce do anoen etujafo ledgivbu laki naup la zo. So ac nadoz bezin ilenapa duumuwu desuk ibketmiz upuokaic fo cus map uvine lazukrew. Cezag ug tarkejaf eju meka icu ibakah tis veleszu bu dobuco fajloj ivpaz nejfa wu dobbic vovofhi zujuha."
+  },
+  "apiKey": "434b68d0310db00527c7ff75b34fdcd4b9ad0c285b4bd01dead436aae4c42d7d",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
