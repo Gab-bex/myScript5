@@ -1,0 +1,26 @@
+{
+  "name": "Lena Boone",
+  "age": 54,
+  "address": {
+    "street": "Weede Plaza",
+    "city": "Fompabi",
+    "state": "WY",
+    "zip": "44579"
+  },
+  "contact": {
+    "phone": "(531) 888-1788",
+    "servicePhone": "800438389"
+  },
+  "birthday": "1969-08-10T09:42:38.524Z",
+  "ip": "100.233.242.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Tobapeg wizhep bahumiram ca zineir nonib fi abva zanhidjef mosjaeko vehrezmim makeemo. Zowe iti nontomoh zawhopese den cen jifu huupu dona pu mar jaj ohigamjat udovov sozwi uz be nukimu. Etluk gi hu huovlo hawuhu jazselpa ukofahug ujdinri baruttej za poh wafaj.",
+    "bio": "Tila ve wiguszu nelwokede ine pude zetorewoh sul fek ihejedreh eduhoji jupkan turgul. Fitronone kem osomidi wosuf ta ugfe hav pu mupi fu cat upo ju nubsihjeg. Hijit we lezideh ninosne kahfalvej gullezo rugolvet sawnoup fet ubi ca cag piojaal ube aji. Re jeheli ha cepehe ha suwo uhuco hiwfizil pes ce respak lat ekepolzi da duzsolav juvictib bomom. Zav ava kajtinan nekave bubil os robotfe bimipge tucupto da bos falwef demve li joozzas."
+  },
+  "apiKey": "e351cbd38c5cb59b9361e26f61834801ed0cdc9a2931c9467285eff531140358",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
