@@ -1,0 +1,26 @@
+{
+  "name": "Gordon Mathis",
+  "age": 45,
+  "address": {
+    "street": "Voghu Highway",
+    "city": "Evjura",
+    "state": "OH",
+    "zip": "16420"
+  },
+  "contact": {
+    "phone": "(655) 837-5029",
+    "servicePhone": "800236876"
+  },
+  "birthday": "2001-10-13T07:23:39.123Z",
+  "ip": "30.237.151.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Woga ga newured wemav meg tijuf po badlap sahpoboc fotiles bag fukteb. Medaw ejepusap gowgo sadfizvo damul hiwlam cudojup gelwaz vidvavbo labmoej beru zeeze pucedgap. Tusopmam re dah duv rohabef kon izagad hofuco funta umezele ser uzuvag mu.",
+    "bio": "Koppaca hed zenda gioba dekpic ga gu ikibofo jondoriz uze zi hap. Osadeb ze todpoz salozu iposnot fi pusapra esi ofodat iwalobmo gobeh ko locde gulfi gemanzir fo ba. Dacceb dar ab bohuj ta jed rof ce iti uni jov boboha bammaz. Ed hugzofo si zatuac ru mirgo zer zar pokhefrog garuto bas ahinital jez eweigzi edezimu kib he nodsamew."
+  },
+  "apiKey": "ff6be213648e52b2286006ea64f06954c3523b674efbb88fbb1d82dc6f9bfec0",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
