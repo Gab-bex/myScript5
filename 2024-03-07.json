@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Clark",
+  "age": 31,
+  "address": {
+    "street": "Ceba Path",
+    "city": "Rujbivu",
+    "state": "NH",
+    "zip": "49815"
+  },
+  "contact": {
+    "phone": "(648) 575-1753",
+    "servicePhone": "800911842"
+  },
+  "birthday": "1990-11-08T08:54:34.167Z",
+  "ip": "91.185.252.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Zol wari ohlu si ijnisig wokivpo og ahgukvog jozedkal bufeda uhemur di som vojrifole suv. Ekwe hu wibisom oswojje nafuboc towegiare sufezeke farji kopip rogwe we uwa cone pirgi. Pufedoj vevutu hunekpo ti fozu boh kelat zopuz boce gijna goro fah zen senko jefkevkoh. Libet zazu bu jef ke faperwar dakar ubeuc si zowpep poigukik biznonkoh ag moz ogodupsu evwo guevooki usakilin. Packottew nilvieco espa ku ibe penuiz lizseczoz ca ne waw egifew sowpa.",
+    "bio": "Me nitidre tije ba ake ocubij di akupugo nukakfi jar jowi fewek te non. Bizojij uwzagoh wotu zubhaz tijanrip jiramuh od da werza momdizor gipez dicujjuz vof. Bihejoru cocar sab ci wi ave joh lalihus ozubu tiwra jop jug."
+  },
+  "apiKey": "b70cdd6ff8ace7c3241705969fc58c0ce01e9f0b4c30ce8466ed925dc25ce185",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
