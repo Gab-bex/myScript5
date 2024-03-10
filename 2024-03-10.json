@@ -1,0 +1,26 @@
+{
+  "name": "Dylan Diaz",
+  "age": 39,
+  "address": {
+    "street": "Epic Road",
+    "city": "Bahzijak",
+    "state": "NE",
+    "zip": "38628"
+  },
+  "contact": {
+    "phone": "(264) 520-4408",
+    "servicePhone": "800972119"
+  },
+  "birthday": "1996-11-24T05:24:01.179Z",
+  "ip": "196.233.191.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Tarihi le pa go fa zubgoata sababwa okihiwco nu we cipi cikhij guwisci sak uti. Uvufitog kejfotop diwakje oda faasrig nazfi ruara ahufih tujucet kamtabdu ci relosu se obesiut. Dahkih ik jahe linpo zogiklas avagukuna buzwu fusborub oriho dom ofe opelut ifeh zisavmuh luwjabne efaluuvo. Cocmi vuihpi ku nuc eke mejili zatehcu mas upna kozihi huk nomumel. Jokiku bicutouja zuzufco tocetkeh cefas gak mehiif nihmeave nuh hecehmiz surref oscuz murawana jaw uwca gurkapkoz.",
+    "bio": "Wuvojoj ijodfe tosnekru jodpokuh fu tim sievkid wa lekbik bige be esipe tuvucra gu bibu fieze bezpatun. Hi le ogo livwakhad an itdir pifukag hibri fokibu votob wenwo zaz suphuj un molute nabwe adisuzub inilub. Nuson duv po zoali bo ke are igubu rovumgo aco elaofadar cuwa hocebgas ive visotaco fenasuse wi. Wik hig cite zoj pol ohu zokegafac no vihto mo isnu sajogjoh mikogosi levcec. Did vo guf se ki lelez libcucig namak wuh darukda wevno fad udmomto hec oj cibfew. Cumoluk korwooz racih lehbah wubu mogaw baliira romsu egafelutu pelud jo ewemanuk oropuceb. Gawvelo zapiez zedro otwuavo sumi nugdu sizagut rubo uh kahir uj egwatuni nemineve ru ufbumuh."
+  },
+  "apiKey": "1e9dd7a880203791f15fb446c2d785e86f0acfd74cb1d1f83d86cdcb13a45137",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
