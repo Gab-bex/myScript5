@@ -1,0 +1,26 @@
+{
+  "name": "Howard Owen",
+  "age": 33,
+  "address": {
+    "street": "Muweh Junction",
+    "city": "Immelec",
+    "state": "RI",
+    "zip": "40502"
+  },
+  "contact": {
+    "phone": "(711) 939-3845",
+    "servicePhone": "800211685"
+  },
+  "birthday": "1988-10-19T07:32:27.714Z",
+  "ip": "204.227.24.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Dinaj zit eni efi ra he we gacgaleb recabo ezuuhofa cut cawsasput da zacije piwkokani. Koeju nurtofral gegpukgu upaes jida je gecovese ga vabume liergij roh ruped kunilhi oposih zuffe dahiti wav. Daaro amnuvbo dorjopus eblara ow naado cip fuemne litapewe uvwujbiv folemo gasoneg tovkaj cidnozit nihormo ivi. Okiba rub savurcan veuku fu ezudul rubefti ne izenias pof eslalhep awiuji pir kupni. Mu jepidi luwioha ciwibel mu gipow ikotiju efsesweg so wo joboweso ra jultijec hu ge.",
+    "bio": "Of ofidasgip vupjeva hatavi lo kav hovooj ferfezsi ri ginvuz hiadajem gukumaso. Bulioc kejep zukkatu kut jiigpa op oddorod terbic go ifo munhorvab biw niunve. Jogri ubede ip mal ku pajlunmip kuhpew fagabuv aslojwes lanelo lopuzi ta pep azokel cohafca. Ig omelev uffuas zijtezuga lugegwi jo oguago anhita eguaz ihowajal fedla cimdabom avhugzo wa poja kofbubda miatitu madses."
+  },
+  "apiKey": "333c9a65d49830aad78c79292fb64ffff2bb480e8b6cc24fcf92ac5c59dd497d",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
