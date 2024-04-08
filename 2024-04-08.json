@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Carson",
+  "age": 62,
+  "address": {
+    "street": "Iluju Square",
+    "city": "Ucjakhan",
+    "state": "SC",
+    "zip": "58240"
+  },
+  "contact": {
+    "phone": "(669) 674-7655",
+    "servicePhone": "800378649"
+  },
+  "birthday": "1982-12-31T02:23:41.701Z",
+  "ip": "143.8.72.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Pu zi ahcav horero zim soolgi wiv paofi nullo vimaca ucoek ufasiag tih eja semewip osizgod. Piczir hevza po japikakap ho faube madi dawpil zi setpe nihazug hep mipas za ripabcat. Fupgoos aseivgo jip tefgeflu re mi warwolele sogwibcez ka ovbiz vu epouh.",
+    "bio": "Et dan ferjud fuzfulre cessi gaih zogbo goh vasfouk ze vo risla fozhin japudot seloca hufsubvur ejopos nonifo. Zaaztub cuna pejupo nuum lok lurbunmus se owleg owe rosnupiwu zijtofvak pidul. Jo ti guculezej koita niz novba ifadan robaz ihowik jezolunok imboak lejsolzid dip nosmefme."
+  },
+  "apiKey": "ba2529dd6be5b669f147788530b41207558e506f588d2596972a0bd78aeaedfb",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
