@@ -1,0 +1,26 @@
+{
+  "name": "Francisco Armstrong",
+  "age": 50,
+  "address": {
+    "street": "Vuno Trail",
+    "city": "Uzfila",
+    "state": "VA",
+    "zip": "17906"
+  },
+  "contact": {
+    "phone": "(537) 468-6095",
+    "servicePhone": "800749998"
+  },
+  "birthday": "1970-04-20T09:29:25.288Z",
+  "ip": "14.181.16.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Vahsaddu june pu haudlor kuzjif fessamat gurok og davuj widev zu lo letenbo licpo umra kesko acwegac lak. Gef aplor osuwo mupehvag sud vaf hev mepi joto za wuwmahe kavsohi tadnetad goateem fa gagne kicpecu zehali. Eg ilouswe hi so pener nihhijuda kevmege sihape kijpikro paujsa wortembug ufda. Ec ket boc roafa atta zo fuegis ribcow ovojut gi ipgu mucim visob zi zi horere lapew alcawaw.",
+    "bio": "Gajlo uhnap olivanog ladgok ciol ni muz ir godekhuf ragut otimi no fi wegambi. Cur fa dapiin mobo labcezite japza cihko cos lejga cunu zin mif se gu asgi tug. Rengiwah vehbuoj ciw ulupeka koz vi uhu zumoc rokopti zin mapnop imelazdek zeow kute kubaron."
+  },
+  "apiKey": "42af15ee7d724ac6bbb180ad81e4be415b609d1f277f14d4104924e641234ecd",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
