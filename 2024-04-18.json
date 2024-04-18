@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Andrews",
+  "age": 63,
+  "address": {
+    "street": "Anko Glen",
+    "city": "Sutmegiw",
+    "state": "MA",
+    "zip": "03388"
+  },
+  "contact": {
+    "phone": "(572) 830-2689",
+    "servicePhone": "800942911"
+  },
+  "birthday": "1995-10-17T11:11:53.148Z",
+  "ip": "8.214.19.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Gukgo meori ero sejivin pauli rirenpuh bipildor fovohalon cerij vibel vipoz irora kuc. Me nezokto juc uvsaov ne mek naf ahazu ko ukaot et becpekar edjegof fafemej limmo. Jis pesukuja lomzadur jefnitupu zine comve jeni guil inme bilcizwi uronufimi ugsinlaw ezfaslej dojfebvuc. Ril jab tohjitin higro panem tuglenuho tebcedip der ogovijov oludoz ja to.",
+    "bio": "Roig ro mulmo tace idbe geza wi ruwimben zimo muwe jamu ene fefoel ses. Bojap dek keho woggu kosufo siedeku ido hazasra jakko ejaemoj diz le imibubibu sejozeg egpa fij. Cometga idvah ibwan ud wu tuholfe wonnoze amejiore ugepoc on tipasiwu bi samev."
+  },
+  "apiKey": "58b44473aa7d9c7276eb54fe87572534cb8a6fc1dfd7c330359e54e5ee6b2670",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
