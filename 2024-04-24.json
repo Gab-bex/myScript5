@@ -1,0 +1,26 @@
+{
+  "name": "Jerry May",
+  "age": 20,
+  "address": {
+    "street": "Zufmo Key",
+    "city": "Vasciuba",
+    "state": "OR",
+    "zip": "43523"
+  },
+  "contact": {
+    "phone": "(733) 964-5888",
+    "servicePhone": "800794157"
+  },
+  "birthday": "1961-06-20T07:27:37.966Z",
+  "ip": "106.195.172.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Anlataj sazga enacic emdeh si vumupoc zusmotu mebru lidavada obav etjul ti opaviz wuz. Ga riwapvah rovibo ke ju dul etusohu ju lek egwon conocza icece dar. Betwudfi utojimdu ohu pukoh dabman sizru pubuuda ramofrod ziv le sipejtiw buk. Sutufifi vomwajaba dula eda facgu vasoz mumjod poehe focienu di worceidu hifbec puvug cuta. Letu kotar pawup ha pi cu wu ozazotcej vojcu funoc dojzuik pamanesaz somap. Bejonhuw bimma iztirnu deog wihe uc osi jaja ole sez hefa jur wifomide.",
+    "bio": "Esuca boin gepdacba gevpo lakobuco uszav kabte upzufma raderfa koifuler geijo ijbubez ikuhip vobkeli kitsaz. Ug do wokuv idu itugi vemvad zabi zawgu pe zabki va keh olkadto togdefta lupse kabi. Sud fotad bu ka covuuzi ceudo porabe ew kozulhoh vejisbe ib hoforbe dof wu taso. Vetbuz moci jojeaci na la ceg leh nid poc tugbi secej zusebolu har runrak dasih."
+  },
+  "apiKey": "8b8b358ea7ff374f343b1769d47c1694b78c4c7f57624110df4ed19cb095769c",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
