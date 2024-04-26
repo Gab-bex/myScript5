@@ -1,0 +1,26 @@
+{
+  "name": "Frances Goodwin",
+  "age": 42,
+  "address": {
+    "street": "Anni Pike",
+    "city": "Jesofcu",
+    "state": "AR",
+    "zip": "98957"
+  },
+  "contact": {
+    "phone": "(553) 720-2634",
+    "servicePhone": "800261837"
+  },
+  "birthday": "2003-03-28T10:34:24.575Z",
+  "ip": "221.182.103.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu etu zeriro taso nije uh hum gitgiz romekek palval viles ri gof muhged puwujwag wofugat. Diab cimacetu todi ino to da vufgo ba ca ih seen gas. Mizevuse gudwe ribeb em zig gehmioha neteb re mewig sil vi hu gizacwi jomjeg mazkap dejed.",
+    "bio": "Gosrir rib elze bik ommuad jihmo ek udca bozipa fi olemom teffac cangi fa nopuzop lageak edejoef mucu. Diwi ingor kuc gom avelje ogukezhol jucdal gidobeoc ormi ba deg iriomi. Movebnod he fij evazji kihfu cibcap cu cas pu hej pirigfa apti. Zauwado vov pabsowpim dacelud retnevzov nieja pivvevrah muf vewavto wok ne mapucka wu ha merha nuna gemul vefwus."
+  },
+  "apiKey": "9ad794bbd55fc79e2c650c6bc333e8d5506f214a13af79ff24110bc4d55faaed",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
