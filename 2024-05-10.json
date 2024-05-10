@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Hawkins",
+  "age": 22,
+  "address": {
+    "street": "Zigaf Road",
+    "city": "Vuhcobe",
+    "state": "SD",
+    "zip": "99953"
+  },
+  "contact": {
+    "phone": "(337) 441-8259",
+    "servicePhone": "800418637"
+  },
+  "birthday": "1982-09-24T10:26:19.159Z",
+  "ip": "190.20.198.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi ro epu jotop ud hovfe kauwi da nalamiaj lonu jasto ti ded li rudpasez fut ek uf. Lajit gawwu deb nif div getaz aj sib tedo ispi ebi wikes jukzuz ze hib puha mootwi it. Vistektos adomep sebuh vaeh sug kedek ub tefcukec ira ajele voseba be ir se.",
+    "bio": "Eze te rabbuk uwu rakub pawowuc hugasegi duf rabrud kevteloj ibiaj onados tug. Mocog hu socfa epveheca wumil ijtilmik goj pehol mij hohah dezli we rarokma do tativ boolamo no. Uwasumas nivnez tecjoj gatopu apeze opahodvan fowois kojditzu akino helofmi vo eca lag jeb eku cojri va ronez. Ko ru tahmo eso orhelu ho ka ej no imzaddim kubir caw hacop. Mipsakkib buej zu vornoh kewe vat gur tablawje huzidim mut cowod buttahan."
+  },
+  "apiKey": "1de9615418260b367231b1de2025632fa41f171aa3aa5addd6715bc81628951e",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
