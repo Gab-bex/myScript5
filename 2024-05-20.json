@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Sanchez",
+  "age": 48,
+  "address": {
+    "street": "Wuco Glen",
+    "city": "Ulelamhi",
+    "state": "UT",
+    "zip": "48870"
+  },
+  "contact": {
+    "phone": "(800) 783-5494",
+    "servicePhone": "800891438"
+  },
+  "birthday": "1962-12-14T08:46:33.404Z",
+  "ip": "101.21.143.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Suri eh ca im lic denbaji gi zuoh odpere lidzer ibiohurus ha peesoco foscad. Walso werava pofkoraj hihus ji osawah pomwakwub om hehkej macen vinor da job diifizo cewugi hu wocow zopdi. Led vujlo zolbew sitoso mukdem pozkopto omewcab rorav egerowo icu gouto ibvi dizuf juh rahwiv vi vi.",
+    "bio": "Jop su gowol mecu pi dibjo viz azineb votamow gug tib rec virohkuh emire fop mujos zu. Divef toles leto ikaubaazu durwuz pam obibid di jeruc ruir pema wogezouju basbo ulamovo hegja. Demogaz da fuhudik led maswitud kijo uhacojur difume iwenagazu puv gez sase imtid emileuri isar ipnuvlem. Cemig dowibe om epotu vulali wicnuhup se vukeon ru kohonjes se tuf jakce. Hal wo kusis otle cucimi ifi zus rizipvu feg zam asironte wudno hafegek huj am nu. Tudsatizo orsoh afwa ire jek rak wuthe hag maffeku pahnisu akik mutfese vo cekuvag gen. Oh jare tagiv gi ihijogiv tiffa behborod bive wikvow pel bajoz jugufvoc lir dehian."
+  },
+  "apiKey": "ae435f75440ecef6ef906a018f0da99ce009fcf229bb31bc2e0a277d08f650fe",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
