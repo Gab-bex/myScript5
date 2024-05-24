@@ -1,0 +1,26 @@
+{
+  "name": "Peter Keller",
+  "age": 34,
+  "address": {
+    "street": "Hetwo Lane",
+    "city": "Orufutvej",
+    "state": "MO",
+    "zip": "21565"
+  },
+  "contact": {
+    "phone": "(277) 726-4262",
+    "servicePhone": "800628131"
+  },
+  "birthday": "2003-02-27T02:14:11.916Z",
+  "ip": "165.229.221.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Fimpamtew vuhazaide fit usu remim haw upudun tifmipos ekeddim loladvi sevwulkov wun wemguvnoj co. Cifave cecbun aduled ni komja joceiz caz sabov cecmom loez um suwmi wamon dazpic. Huno heafobur hotguoj dutliri vaet naburov gaoju zusov cujjikbo jefhi mif inunug ma.",
+    "bio": "Hanfo bugac legci law mudfu wecpi kod huf pejab coahijo wazalez bowalcoh oferal il. Pahmezcug zetwudog valmo pipuw jore tu aheibailo olked mur kevucbog tu bage. Tugova sarag dida tiki kinrid roili fihi ana irawonah pu forih ugakevtu noifvev. Guce ti tigpapem zaszi domhodfaj povij co ijitu owihatwi ta wuwdif adhamod ves wihla hojdelud tarjaegi wiovi. Azecizwov venuwupi mukad amiabhaj la sos viowa fo as boc ihe sivbi. Nerimu hot tu tafis elpejwi he hekugho loz vagle voviuke apaililu jorvuc coic be bit buzitimuc sawe. Cov ra guggac jorhi giv mod dojwoz robmebiz cujgeij per fu gop uhwon al levboj."
+  },
+  "apiKey": "69c1e4404a1bf346aa075f7de0851635c0cae47aa4fec24cf8f36a49c36a533d",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
