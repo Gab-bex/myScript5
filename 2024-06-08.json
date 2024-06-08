@@ -1,0 +1,26 @@
+{
+  "name": "Nora Gonzalez",
+  "age": 50,
+  "address": {
+    "street": "Dutom View",
+    "city": "Jerobuz",
+    "state": "IN",
+    "zip": "80342"
+  },
+  "contact": {
+    "phone": "(346) 927-4032",
+    "servicePhone": "800724547"
+  },
+  "birthday": "1972-04-20T12:43:33.815Z",
+  "ip": "204.172.199.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Ris latid pivna kudenji memuctib dubjoig zivi ihe asaetoak risup gu nivciw gu opedu votnutih hu otgobel. Ojbuf lat jirpimih onsegar nem fif lipba lig sufic jiszoobi ba ikomokuw mez wonu oseruvwu lihced cedbaba. Vu befe fokaw seemezip tajkek dagmonadu pa tuvlefu lehenife iwuhezlal rec corok nafeb fabcor ceim wara.",
+    "bio": "Vuf tosehke novriblic eko mo piuhili taje kubof jok ro tugzor ba bovuknu koz ivusaseh vakajike la. Cagtuzo gih cililil sosze la fenpow sejaojo netece bit wev deapzov sik kofko ij mulema cusni din fod. Anigaduh lonza ero mo ova kuf ge fawu nav po omoehe apuvusib wep gethoku akluuni uk lo. Jaz omtahda jo wise hu zejde fe epaagoin muig tago kocem reize et. Elesoj herabo igiv reviv zavtad kasge tupla javnenun hojfuf ugojelu rugeb logoneika wabunpu tat cew rabpig. Edhi menkawtiv to tice am noh hisevo ti veb nid se intin ip pupmanoz."
+  },
+  "apiKey": "672ee9d38f5a49464131f7b417142abe90247ebbe6b902263969c84814d85cdb",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
