@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Atkins",
+  "age": 19,
+  "address": {
+    "street": "Labi Pike",
+    "city": "Kojhouta",
+    "state": "PA",
+    "zip": "65834"
+  },
+  "contact": {
+    "phone": "(619) 429-1185",
+    "servicePhone": "800365636"
+  },
+  "birthday": "1978-01-12T05:07:19.055Z",
+  "ip": "200.149.128.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Boskavuk efoffa lejuli dadcu fiz roh lor du uhrojwob utowugcu ceki eromelnad. Ugahvaf ibuhenma ocuobbu una cujauk pi ge memset poni je gifasgup vilegol zoc cizpegwi oj arnif. Kor zecu ucse pemigo fa ko piwake nazitwob jebidcic ipi rasum zofhefere.",
+    "bio": "Vi jefefe tozo wubumi hiama arasomo an meh ke areumjot go cas ozarossu utli vupi vopotpu. Jinuki cikno gamnurah posur piti ikohavvos liju hanezi to ujaefidu bizlafi uddizoh is sutbuzdi bucekap fune dicigha. Pewuzo fobav wocsug hu pimaaw ratwi wolkij zew jehgu anosawev ep fokun ifde bikalu borus zenig teon kuohec. Negvep pip odvig muddafeh ve japfag ep ki rahag daj wageza peure ej fip. Pakdesnip pafuro zoc safebwal ire mawva anewielu co ehnizvod topu witfuuve da. Nushaal tezol kenre ug evebabtil ka ozlut mosvul sesa gudile ugair hun og mumgi ilurufoj daodoted. Hon uc ah ha hawe mi ci fusuzoj miij fuvbojhub uguhej lun madlot ciwlofa mekim wot zud."
+  },
+  "apiKey": "0eddd88233467f2cd5988306a9855891afe9ef1c101b80db0a58a36f61b0a5ff",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
