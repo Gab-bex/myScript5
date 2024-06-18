@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Hammond",
+  "age": 38,
+  "address": {
+    "street": "Wirzih View",
+    "city": "Baicpi",
+    "state": "UT",
+    "zip": "22852"
+  },
+  "contact": {
+    "phone": "(430) 715-6357",
+    "servicePhone": "800837612"
+  },
+  "birthday": "1972-03-14T11:17:02.612Z",
+  "ip": "50.7.161.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Cekiz ded fofjahvo gu en ge up ivjuhi dalruc zazozeh gucodo uwenojtoj pigmon fu cavokak ovgep deadewob. Lutfali lawa jok lijam jolil febo tapweeh obe teg ocauw fiklizumi bag osubuzod mepi poidi ulu zeuw hag. Hecco kuhrohut zifu tacsuup ovonga bi tema rujajzi judvapuf nelli jasupi nadtiti rollag huzewjip.",
+    "bio": "Kop muzicudu konavew ge ehuibsom ohvazvit sojzuke me zamijog pazdole wit we pemaco sun. Etakel dutluzav nivhasi naotbu hopraf sihfubfu ceme wakto ec tijin tugafa pubes na lok. Bolcomo vusdovcur juldig ovdig fuvopajep icimorno ribipus pu zew rolu majnitub rutago vetuda nifnik pe me."
+  },
+  "apiKey": "d9a283b9cbaacad918c5eaae58296a070ea5dbe7dd30b5252aabf2395956a806",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
