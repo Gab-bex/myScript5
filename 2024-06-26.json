@@ -1,0 +1,26 @@
+{
+  "name": "Harry Curry",
+  "age": 54,
+  "address": {
+    "street": "Nolti Loop",
+    "city": "Kajkevac",
+    "state": "OH",
+    "zip": "41225"
+  },
+  "contact": {
+    "phone": "(626) 893-4739",
+    "servicePhone": "800682626"
+  },
+  "birthday": "1973-02-25T12:53:36.233Z",
+  "ip": "173.131.190.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibjek zupusi fiddip hacmimli bugfi lele gisah ati fojiv noh udpatre danubkun. Fe votavla uwiho cu vejasma niwijeb udiaj hu ugu japujosu sow ipzi in apa siewe. Aw gi jolatla usadik buku son dendo nalheham nicakseg viv gap omu. Zitofrac lagatpew osiavnap lo aflasop casroc tojwisno ofegow sa mo machol fetmucak medwi logupuol dihuzmag.",
+    "bio": "Nutiil eljuef ziajgew ga vo bo ibwalic hijnagno dacilpom teed emeibojaw hir kibewzod ijjajile ma. Teow bocehdeb zegdisas purnudzud habuiwe rona jofa jelu owuvu wan nizit liwofnog usu tan donraweh ucadokna penve. Rerebaz amwo hiccomu delus agneg lac weftigiga bo ge fevcaw iw uk uc sihad sapehle."
+  },
+  "apiKey": "2d8c694a54c7a2c192d246cbb5c969e716a4927cb053f8193a23aa6ae5bf0fd1",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
