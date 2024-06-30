@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Taylor",
+  "age": 31,
+  "address": {
+    "street": "Evoda Junction",
+    "city": "Lapeza",
+    "state": "MA",
+    "zip": "44600"
+  },
+  "contact": {
+    "phone": "(258) 344-6121",
+    "servicePhone": "800132599"
+  },
+  "birthday": "1979-03-07T10:17:47.887Z",
+  "ip": "48.129.203.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Umjin rafocu lilriz medbebu unomu zowe go gal lurjoblob utouroki sowamwu vus wak. Baja mior esupowvu guv suzurer puwroguho pagtu deziv pu wotuh nodbeoza emloca cosvos luscu evijeeni red hu fovam. Gojtujuce ci abi nuvninkez voluw tejta hidij ewaduufa dibag vislujav turnajze vofrinol vijse. Bajelu dubel cuijhov be gadom jegviso jigvuc fubcabhur vebofi luju wewema jawaknuv zuhmurok haz cunjuw gip. Kel huwep ik afogosig iw fitijev tatu cizossik ruif jajjup ejafdiw jehgo.",
+    "bio": "Lozan cel diigi gi dop wuz tehfano agsudogi if gin hubiim poagusi ajaow imefe mivpa ut ijacav puw. Fidheped miciznek joz zunojuv vu lu wocoade ges evcave va veilcac juk ho vu fon. Doc gusa fu ciw zaserdo ik geep lebok bohhiobo res lij mifhur tiso daz hop sedinu fa. Agidi rol tugioh rouzu oj mozuv getizij gekakco newno ka zenasap osilbi."
+  },
+  "apiKey": "cdb3bc8ac7e0077d1e657be94e750f76f60913e51729aac7741d0a92f71b02ca",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
