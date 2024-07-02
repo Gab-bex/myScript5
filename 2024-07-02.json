@@ -1,0 +1,26 @@
+{
+  "name": "Virginia Roy",
+  "age": 55,
+  "address": {
+    "street": "Sirma Loop",
+    "city": "Lorubem",
+    "state": "NY",
+    "zip": "32033"
+  },
+  "contact": {
+    "phone": "(718) 405-7624",
+    "servicePhone": "800641837"
+  },
+  "birthday": "1982-03-27T06:39:20.996Z",
+  "ip": "143.203.240.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Dakiz wijacmug ukekes dogmoamu fip podzu nirnumuz wajjadku puvedoz ci lawpuec repluw canku paf ta. Buhoj me afirikvaz vimsedsu jo ora ora ladhala cec nos fumihi pe. Mirhoh acakuti jevvecvo oppe vaggetig uwizidwek oco cophabi ufkapvo nitezfe voze vi inmagji itzo ukoro.",
+    "bio": "Deluwito gob bazeszij lahaofa janalel coj if canhovino iwizu piw itlo egopamfov ewukah derofpe moibu bati. Ta bumadivo gimdegmas pupime juvu afve rekalibo counohi mepenar buifuha viku fajicliv pe mizjevsu ulloc. Vak hocvu iwizuw zun ude negzid saehadu ejo avu jawhojki riprih ken bohpuknev umiturra."
+  },
+  "apiKey": "31fac602c9a600c133b5d0d8c5f26ed232c35dcfb0d6cf150c2f9e7288dfe549",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
