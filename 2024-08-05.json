@@ -1,0 +1,26 @@
+{
+  "name": "Ina Rice",
+  "age": 36,
+  "address": {
+    "street": "Sajuz River",
+    "city": "Fabirasa",
+    "state": "MI",
+    "zip": "21296"
+  },
+  "contact": {
+    "phone": "(665) 615-3200",
+    "servicePhone": "800626556"
+  },
+  "birthday": "1965-07-21T03:27:23.765Z",
+  "ip": "112.160.9.231",
+  "foo": "bar",
+  "profile": {
+    "about": "Jaseho wulil ge me sibufo joowdu ilugaom ne ceite fez jesteer ivog no vizo za. Ris huetaf he pob vurrogte co ruse ta niji fe ewvo ca perouna mikam ovpap uwucara. Ugizuphoh bibir iwasul sotasjop dovhaf jak kof nezlo fe huv eb vubafe. Asusaag ozi nov kiij hemaga ladneduz pabfollu bodis mub vokdufhak owdijo gusap isje. Tarnuzson vew neme ta ke usova je ewocoip ojlofjo heri goleoj mefen nij. Giv veris fulu bahtut heedumuf sikec akifog hiwbiw ja rih afu tobeco. Zidiw jitgic iddiv coh zimsi fefunu uphik gijjen jago huk gop et siwubug gejgo.",
+    "bio": "Ziaku aru tecmoed hem vuf ecizak loti ijo bed atazov wutikzib kifeiv do gel. Umocupe bufot huh deguifo elsor buraha tim opakuppe wo lug zivo os nu diwifik ni. Kob li denlitti gozrasca saevi goez ekeboged riob bopronca josonbu fobile vojuwem pe naobota. Wus wu kob sinof lozjaz takizufu uruviuv ol habi curkonne keva ba ti te. Carkog lu buhjo wo ovcicluw lawa rijec isousedu dil dognofe fedcuuva gu wed ne sevrepen ivazka."
+  },
+  "apiKey": "4e3fa4936bf9e3d14b93bc2a353061482b4ee43fed76efd18e5b34e844376ace",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
