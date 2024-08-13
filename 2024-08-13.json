@@ -1,0 +1,26 @@
+{
+  "name": "Jared Lucas",
+  "age": 31,
+  "address": {
+    "street": "Conim Highway",
+    "city": "Podvahog",
+    "state": "SD",
+    "zip": "40903"
+  },
+  "contact": {
+    "phone": "(707) 701-2274",
+    "servicePhone": "800719699"
+  },
+  "birthday": "1999-03-19T10:52:54.178Z",
+  "ip": "224.131.22.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Wunzeggeg kih juho sezsoaj pamotare jug tasogju sifohus rej uzillu joz poltudit kalisu jesbegpo kuzfu. Wepivu gapan coko go mew tet fak lejdobwo ha do owe nuluv tesfomcij ez ti. Bup rer idluc lijtesmiw tetnoh lujfi dimege avune hak umuiki viog dedmo katekiak heez azafu wanolte rodugic. Ufahe dunguzak kof tuowa apiwi esosaku gudaedo hoog epmu lofuwo zam ih sasitri.",
+    "bio": "Ciz ulikozo hinez tu deginujon caklida ke hevkudid zose ko lir kodginafo ka jammis zotvobet. Cazerag uv itpu madaoz laj reshu lusopji eg ze fep seju aniha. Zer kovurkew bamfor beloc acuku cu uhahiw zijkeb gasup hi nowgi cuz tom buto. Ganmumnud er en ciwga wahuhuot nojiwini ovulil ofegoaha juewahuc rubehi oveebeji olawi okoiznu. Ko do urwilu ihu ok itheora morri rutnuhel etapafek fejozru azigevu baciftud unenicu gulad balnunoc rogu."
+  },
+  "apiKey": "50cf53d8f5452194e4f74258bb2a2633692a50bfae46f2105c88aab3bd492c95",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
