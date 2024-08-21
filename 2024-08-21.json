@@ -1,0 +1,26 @@
+{
+  "name": "Marc Gordon",
+  "age": 36,
+  "address": {
+    "street": "Numni Place",
+    "city": "Lojuvur",
+    "state": "TX",
+    "zip": "85024"
+  },
+  "contact": {
+    "phone": "(426) 430-9077",
+    "servicePhone": "800326526"
+  },
+  "birthday": "1993-06-12T06:38:36.338Z",
+  "ip": "67.54.190.123",
+  "foo": "bar",
+  "profile": {
+    "about": "De tuusri tum fekukati mopwolud hepekugi aw hegmiwe fitiuf zof oma bah ku bep. Dulo fis gajehhej jol hebeghic zo je wotkum lohrih ovu ed bi gewodoce zunvu. Faf mim sogijcu cob aw rorni wa gocimiz gowamam ule acufurjez sihi. Wurol mazpaf hulkunito pajurta ututom ruepuma osa vifur no siwcelur fan gim jinat ligapar walo zu. Gazoh ekeruj fotwe tivagotu wu hafgibe karti ne tehihu neh zed umuwa. Edabeele huc nionla oko cebfov kochalcod hipkulwa afala heru fa zu puhej zeojro fiakgo ofuudwo ipbe zowudoj amjonovi.",
+    "bio": "Vizgi boesutom tevzamki moj bi vosuj tan revcip jacebu ucazik deluv lovufico jido ompo. Amaloane tip tas roib dev guz kopucfi ruvsu zafuvav zigha mizuz misna ud ofehebop. Fohtilci derlul muc mev alecuf fowonmip gabtot egvu muttankof nabpo zukseb ameuruter upgapgus det ubtuej nehbur evamib."
+  },
+  "apiKey": "f5eda8b01955e99b95e7513b2d09148392675a57475570191bdbb8309b632fad",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
