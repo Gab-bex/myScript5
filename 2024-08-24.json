@@ -1,0 +1,26 @@
+{
+  "name": "Martin Wolfe",
+  "age": 33,
+  "address": {
+    "street": "Boadu Heights",
+    "city": "Dupuwuzo",
+    "state": "NJ",
+    "zip": "40241"
+  },
+  "contact": {
+    "phone": "(965) 703-5043",
+    "servicePhone": "800528229"
+  },
+  "birthday": "1967-06-30T03:17:30.216Z",
+  "ip": "125.238.84.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Voceh atuleli zub saage vimsa gon inewi fepidar wi eghohfal vehevu hehube ceefo tod. Vusdaf lepinoc baohvud haculri zizut cobkuk suktoniwi ilpe daos lofkolho vedcives nurisuf keh. No koggiczi fone obafokcu tewsolag sam toaru eriuz gisoeza tewmoli le fabgac rupmusod. Esjo kal ij tugo igu aw nilcersus ug omkuno fu gakik le nuzaccu wiv urace uraefied joh fiudju. Ezuvutur adotisjuv ad zedfivem cukfu sudelip moj pimno di covazid jopeb hekuj hid igukohla.",
+    "bio": "Ow seh fuih tuhesre ovu efkiah verojwe avsimgej va elabog uvdol wepnalhej fihoc laomjek banewsec. Ko nihfuko wat hedazgow jaini supamepu hunhef tomujcak sunhatas ici uvha je gi atekojuv. Ecaive wav kokeknub ifame vafigwis an wowe awwi fa sohe piv wozzabu jahwibmet teje li fuvacsiv giko gekaj. Rubutiuke ovo meece logwolku ecfu hepnut ov itidezu redeh bibkomig evpemsu uhki."
+  },
+  "apiKey": "f1b2e1fa9b85f330a4e24a7d4f86d550530b27782c63c95fde3d35e85a65b3d1",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
