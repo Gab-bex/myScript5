@@ -1,0 +1,26 @@
+{
+  "name": "Jessie Ortega",
+  "age": 44,
+  "address": {
+    "street": "Asiuj Point",
+    "city": "Zopduazu",
+    "state": "AZ",
+    "zip": "38839"
+  },
+  "contact": {
+    "phone": "(965) 978-4652",
+    "servicePhone": "800878874"
+  },
+  "birthday": "2005-07-08T09:05:53.445Z",
+  "ip": "139.6.255.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Iw zos dofca codkeobe fe peirdu ak izotuso veupbed povtujva aru ape di ho de numufu. Resa nemu padha se co no zad kobuckuv ujide sas gumwal das junceke. Latowu vumjem gietfov lukfe fiwe laguka tedpimzo judep ib kuivi mohiwe bitin.",
+    "bio": "Nikuszac pudnah sok galduho ezmuwfub liritaw ulusojag cil sihhum itpe ipwav pu jazumu wirbute me. Pojike wot feipipo ojozomduv lowug an nowooh jaz gutiemu wekje niw evuipoon zu eno neba totmevpo habas ora. Kiuju juwocuse lujecik ojten ucu we lojiv zujravbem jeboweb nozucoc sulol laca."
+  },
+  "apiKey": "c799b85c458eae98c2056535fdbed945d7970319d6a92d841d670a5121aa7578",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
