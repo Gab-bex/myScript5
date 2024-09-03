@@ -1,0 +1,26 @@
+{
+  "name": "Jay Owen",
+  "age": 30,
+  "address": {
+    "street": "Mogo Avenue",
+    "city": "Rakapbuj",
+    "state": "PA",
+    "zip": "45277"
+  },
+  "contact": {
+    "phone": "(327) 634-3518",
+    "servicePhone": "800998465"
+  },
+  "birthday": "1964-06-24T12:46:26.552Z",
+  "ip": "25.221.91.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Se ak ek gejva awavi heblugaf upe no bukle uw os bug. Fidop vojaki hafi zabub rij babogte bi jortimosa sag da wim liigi haj jeb upudo. Evacos javgi vujonhew afoemzaf jeweone ut punu saimfa giwuece cofega jad titdo puhotjad dem fowor.",
+    "bio": "Fapcenlup hahlaf gar arvev bozef powakohol ufa dijez gajhover tocpi su gajiwta hedac. Du jagi ro vifiw vep ruluk cecubi vori vonduc apa gesogew vi na. Biegred oja vavutu ran bo hac giew giuha zomrora tore el kotocpa hufna."
+  },
+  "apiKey": "9416f61458b9fd1c2af1801036675d37d294bd98ee2e2a8c6b9d0435b3a89fa5",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
