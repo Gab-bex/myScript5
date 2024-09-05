@@ -1,0 +1,26 @@
+{
+  "name": "Eva Williamson",
+  "age": 38,
+  "address": {
+    "street": "Hucni Way",
+    "city": "Uniogfa",
+    "state": "AL",
+    "zip": "31503"
+  },
+  "contact": {
+    "phone": "(624) 663-6001",
+    "servicePhone": "800625856"
+  },
+  "birthday": "1987-09-30T10:36:19.773Z",
+  "ip": "30.73.62.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Bahu voudueb zozi faz nosse kudetov rumev eniho soni piofa pikazjab mesafitis dugcopgan wiw utumgab. Ma bokan sefdoc udevo ga boh tagavco gedjisa wuhkakir rovtaz hado fuvhekah vor tidsosize nis ajbi sebpipda. Bagugis ga hec memru al mo astec hesjazok umota cizog hifo obopafeja fuzpodog lem jildikvul ku jeuz peveri.",
+    "bio": "Hum merudtos wubsaigu pu vovag hamsu ewik suztur ijusu cuteljag loriglo lab uwuehkal fuh samhi. He fubahe fojew mis refigi ra pesnabzos satavu li loje vil oma nimime. Ku bedfi ro adito akmasal bopuba vabu rubij tizvuduli moruju raujo te remtok inpa. Keporpu edovag fat emditu jakaw dacouh hed dete kotok diowuhe pu vu kozhufoz ne suv vovfuzdi."
+  },
+  "apiKey": "248e3c50a16a5a6e87777ec2d31f044da0c509c5168601fb1a9cdfd80350ef81",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
