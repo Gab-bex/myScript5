@@ -1,0 +1,26 @@
+{
+  "name": "Donald Erickson",
+  "age": 19,
+  "address": {
+    "street": "Hijil Terrace",
+    "city": "Igegilig",
+    "state": "NV",
+    "zip": "00350"
+  },
+  "contact": {
+    "phone": "(578) 625-1278",
+    "servicePhone": "800731794"
+  },
+  "birthday": "1968-01-07T11:01:35.255Z",
+  "ip": "104.150.24.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Tet hosabti bafusjep faliprug babmajha oni to fojecoh tolemcu worses erabop cotjar ru gobmo fonize wilagsep pucug fab. Keltef ru pepufenak bosmolhaf cu malic telodit palfi abuna mina sep goppo ce pe um dedcadcaj zofdag. Puliddi sav otpor lodju ninbezim kag il gawofoce zuhbulgi cukinami uteapce irkiuf iw wiotwaf onkah gagotwap ne.",
+    "bio": "Bal mod zas sas joz ugecaz pivu luru al pu renbep zivuriz vonof. Fehluh rowu rehusi oridelwuf sowlu ceh da ba kerpawba tehu kadatape porge. Ji domup ke faw izo leve mi ewa towefzig nol re uwetub illuw bibzij coug wijjisec pemnuha ja."
+  },
+  "apiKey": "6effe12c483afb3ec13adfe6c1bb1f7e093e53dd8c7303323b56d8297c5f8005",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
