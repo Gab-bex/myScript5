@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Fuller",
+  "age": 65,
+  "address": {
+    "street": "Tudce Terrace",
+    "city": "Cogakve",
+    "state": "IN",
+    "zip": "51568"
+  },
+  "contact": {
+    "phone": "(719) 780-5183",
+    "servicePhone": "800562268"
+  },
+  "birthday": "1977-12-15T11:15:01.656Z",
+  "ip": "242.90.75.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Lesgowzo dej et ej re gugaki rehom pev fuwu oleaslit nus ejluh fi. Jesreruz imretaf tizsewgi kokoneg at kos ogno cujha neesoci velu ok cik feno vuafacis. Bihvudow guju ussis pag wos giniis jibuom pimruv dafrulup vemo ci zazrovne pur tikubto lion. Ukiis pajoro ofo izusaub teruv pegul apakop ujwomna umudildob neg kojrebi bubomle uribi. Jefgom devagi rufwobbap izziwo kare ha mitlak dafco wo wuebe ave suhawe nubieme agub mokba egoocir fag. Ibisuj atoori zin wowsojhi atoboeze hub fadhi nufraw kuwviftiw hiz celu rijakti.",
+    "bio": "Pebepli de lu rueggul hatad daz deg kog zuvpu afiri poghizi if dopcap ba faprebbi riwow wa. Hija pa bic ovi ju peptubgak wufar puvbu zoman mi sif lemluhlij uhezeahe huuc avesi. Datossud atula ovbuvpe uhu podi bacubuopu heko eznatu pavgucoge hib po hubveh op afomi ficufes. Vocbe untafi uzuduzi biwnu ire ozeboep tasboti wijca usceru coemetot zu rene sem."
+  },
+  "apiKey": "721b0efc33c47777bca323ef71b8dd82e9906d25e7c1f9ef3d285ef4bffc1809",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
