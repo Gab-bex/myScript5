@@ -1,0 +1,26 @@
+{
+  "name": "Alex Miller",
+  "age": 58,
+  "address": {
+    "street": "Hapot Extension",
+    "city": "Curmima",
+    "state": "OK",
+    "zip": "41953"
+  },
+  "contact": {
+    "phone": "(540) 739-4143",
+    "servicePhone": "800951769"
+  },
+  "birthday": "1977-09-07T04:32:21.248Z",
+  "ip": "121.16.234.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Furhecnif gizedfi afisasow sidnup omavo li demibzo siij puta doutu resaj ebidowfin utilibpob. Ozketnel ge luffiut aje voser boh no cijgacgin orkoc sonja vujo zofu alouk tu foc. Dugizpoc cor dega novi ena nugked hiceforaz ro ifuhukru bi sofali lilobaor viw mob oza gaje.",
+    "bio": "Lajobhu megno esuicrot pon bogru mioh miij enjetlah san niw ke wi bureap gib ilifeger olsoraw. Fupdaive fobibnis dorubid econu hubbam oseac tarnak je samku wuk zomibu moz nooc as aw mif ojumo monoh. Koculfo vamsakma bilof enemma vik zarcep dug icuwej naf nekmalap hef vueha gatjoz dazamfa owi lanita ohi. Vadhuc na muozaja kiwovcim vaz malje ovhasaz woze feciap egu nomamohu dujekek jose."
+  },
+  "apiKey": "14d7c8ce1500991de0c97ce10b350ae9780278cdbbed6ac52d3328a2fb4a08db",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
