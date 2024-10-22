@@ -1,0 +1,26 @@
+{
+  "name": "Ada Patrick",
+  "age": 50,
+  "address": {
+    "street": "Berciv Point",
+    "city": "Fomnegi",
+    "state": "MN",
+    "zip": "12492"
+  },
+  "contact": {
+    "phone": "(275) 447-1709",
+    "servicePhone": "800666288"
+  },
+  "birthday": "1972-07-23T11:34:23.678Z",
+  "ip": "46.251.69.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Cebap vazlihba luofiva zevoz co javo hizasum vuz pog hiwahez zumi lonob kaho mav. Basusi zo japac urwe etvafu dim ulepajar huub doloj acotenif dak ujotahhu punfasfu. Momdu zegmer oha witfeblef ba ujikiki hom vidizu kijijujo ivzez kiowzob dabi verediaco. Gevrur meiwaosu zi rinzek didbum hi fulhanvu gihuwaf ce wame gaf ucuzetaj. Fodu cocsan tebolne eg ifu hojoh homik ge ku om bin aja fi setwa. Fe lolu wuguzseg tor ru iva ahwiris muwo onajo kebnupac ri enejaju gap ebubohoki do nuz.",
+    "bio": "Mijit ucjic puncakip jiw lat kira monagi ipbe fihauj zugive rer ute ramja wakede sefe gu sewoeri. Epudeova pok ke ak sasjakpi ezihe jokseda hecvuh laoc ti kifampih subi. Sero vagha laapewer jum nuazadir kucloz obo onjedsaf nimu ti vedoj kujuelo se. Ediapgi inu calgear kimdi hasco tuzupkew capnid pa ek kuman pi anu gepgajli tefkomo ketigti nokid jizaon. Etluv wej su bisaru legihe nubhaf fotmofaj mevpaf vezjeg ihibato gefod tamu sag ni."
+  },
+  "apiKey": "8d6f3d3fc89e5a5e373cb85bb6849cdc178f2f0d789ec465edb21e0d92a8c3c9",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
