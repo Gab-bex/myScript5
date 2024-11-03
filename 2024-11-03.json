@@ -1,0 +1,26 @@
+{
+  "name": "Bernice Page",
+  "age": 31,
+  "address": {
+    "street": "Hepe Manor",
+    "city": "Gurefa",
+    "state": "VA",
+    "zip": "51091"
+  },
+  "contact": {
+    "phone": "(584) 485-3794",
+    "servicePhone": "800352231"
+  },
+  "birthday": "1993-01-27T09:30:54.286Z",
+  "ip": "239.154.117.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Tatco faj vowob tof liapo atabiflu ube fudo kuruzgu jibkawuj bu puz jeanelo voti na. Izwubuz mifwaab wupureut tamuk ni va olu fa beben si gubmicip ezu fecmunjo. Huni imiwina koju amesufon okepedvac nut amluzaz ifucci efiotod citluet gi ho dijiob res coh.",
+    "bio": "Lug nahhomit saeti raril cazal zulinuraf ilinadu hovip ja ju nap gowuh eze. Ba elovupwu ujfetta rirgohuv bocovja dedo zufpup hebdilsaf fin kevkeh uknoz jitfa bijac seh ga. Miwfan tos ze kelzuat jakcodij fisvi kovsoc dak vanizus pacac hiweaz tihlugih coguh kojtiej cofedu alo wakguuro laopiw. Foawosaw voji hekfuat ju co belvubu legvubup ge gec kico legedvo vomabu rakat."
+  },
+  "apiKey": "6f5fc3a192a03d759052f816a71c278264134ede8a76ec2de7313759e989c379",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
