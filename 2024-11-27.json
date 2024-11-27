@@ -1,0 +1,26 @@
+{
+  "name": "Lenora Davidson",
+  "age": 42,
+  "address": {
+    "street": "Ukiat Turnpike",
+    "city": "Fosavvil",
+    "state": "WY",
+    "zip": "04765"
+  },
+  "contact": {
+    "phone": "(205) 963-8106",
+    "servicePhone": "800325771"
+  },
+  "birthday": "1966-03-25T07:24:45.970Z",
+  "ip": "171.212.23.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Fihji relseba zazawat na ul lin dobezjed tenlej techi idoafu etjijuw ma sefik. Tubsudo riintaj ribub godef kisacelo bek uco fusev lejnij ve wov wud. Pufkugaz tod dugsul bidi hu zolnela ridcu zera gu ala he le fa.",
+    "bio": "Jemuhifu fiwkipvo bi zopojcak duvute okvuko zahub elvuufe lekajzuv em mas me. Peis am laes sivuw zeholo kelpubap jakkal zi zilne oge zucdavhu zuam ecfunir ruca jej gon felibol avhas. Cucsev kavovo erehilu gidmol ucaloro pirwuki guhcu er wabvuw di faseb ozuigu tuz dufwi. Se res fan jewerero hol sugo ze mobugwih asotu hi ud ijitiosu umu ivotabim koh nutbooma tiuposo felego."
+  },
+  "apiKey": "ae7b539d3df294375783ca6bfa9d650c0111fe211f470fa774ce9edba27983e8",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
