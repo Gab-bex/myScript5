@@ -1,0 +1,26 @@
+{
+  "name": "Leah Ferguson",
+  "age": 50,
+  "address": {
+    "street": "Gocuvi Extension",
+    "city": "Cehusneb",
+    "state": "MN",
+    "zip": "88337"
+  },
+  "contact": {
+    "phone": "(550) 327-7955",
+    "servicePhone": "800879993"
+  },
+  "birthday": "1959-02-26T12:59:56.039Z",
+  "ip": "214.21.112.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Imopitka huc kus ukiudeto mo riim nugzilsu eta zu jevecam ge hevoz ofe awo jeb sol funla lir. Negmu nacoccih moadfaf liofami kecuce dorizraj bok ugese ve raba pughof zuwosun civjud lezekdep fe laape. Kak ig gam motli fi ho oshavba bude koohbal rep gu covubupo.",
+    "bio": "No sefe sowo vihunlus wohpuese etuogo capjapac wonel how tihuw voser haz mitjazov gizeckum. Ob daozi fahimah fohu tazfe napuhmev areaznif sa ontopgi mo ura kiesvez kuuftas suhfas keite. Azihijo ci cobub wam zej tawwi roafeted eselav cazop hu fiv zavu uhubozu kegcusdi vobzot iw ciwuv."
+  },
+  "apiKey": "ba59df534f3f61c94181e455afbcb5e2768eeb480a71b2c7f20c76f55e3255ef",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
