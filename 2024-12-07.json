@@ -1,0 +1,26 @@
+{
+  "name": "Philip Glover",
+  "age": 49,
+  "address": {
+    "street": "Gansek Mill",
+    "city": "Pemuvhud",
+    "state": "MT",
+    "zip": "40060"
+  },
+  "contact": {
+    "phone": "(559) 726-9315",
+    "servicePhone": "800534658"
+  },
+  "birthday": "1982-02-17T11:44:45.310Z",
+  "ip": "66.176.221.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Acaha wefiz haw ci kag fukwu fiawu ro kilbevze pik ot lo uheki. Ut or piv vagi ojibe in kahjogzu jimze ma gome vugum hog kopduk levopeni. Gaal ro sa kimonke uvecode bu ekoga gaihfo lurilrew ino onu pisemusu ij posowzos gefi gotuma feto. Sa ruta lapwos olvah fu cepfiewu coos panem iradas dar perek simpedo mir omwulif cowefiaka ogki osro.",
+    "bio": "Ohhajko vun vap alulekbu nusupwo pahojse pidon dizpadub ok efuliffi hijubutu ke. Garwi dowvod an suniga oz vaod on gul ojdihnom utaepde uwo sopnelusi peggi kac rotabo ruscak tumu. Abtup he va hi nehfenih zab tepu kafti goluni bo fadita loglar. Hugfa middihi nigciti meep ezihuzak muw tar fubeb wiv juili tuzumi ru itibi."
+  },
+  "apiKey": "d92a59008910415bd60f8a35656d3fb1712c05eff5659e97de5e9e1ec689df35",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
