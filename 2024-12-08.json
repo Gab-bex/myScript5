@@ -1,0 +1,26 @@
+{
+  "name": "George Sharp",
+  "age": 24,
+  "address": {
+    "street": "Vesop View",
+    "city": "Vuilpi",
+    "state": "ND",
+    "zip": "49514"
+  },
+  "contact": {
+    "phone": "(401) 809-7153",
+    "servicePhone": "800529928"
+  },
+  "birthday": "1984-06-05T04:04:08.574Z",
+  "ip": "215.68.203.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Vekhu pik dib lif ka hen vo ah juabeje muc azhi ce ad roepa hopavju gocpok tiz. Bope waravap ebhulig duiweni rudcotem kefbi josufi ibsonu ome wap maum vuhrosom nehcu fiuge ma ranbub fu oto. Orurike ipudoz satodhus num ucietavo fofjo vuagtu woz rom big be ode sifewe lijwi polog huc lijhadgob. Fizfim verezri ragec saogode ac zohes ve fuhlah irted acmoj gojkidjih esujasme eno egpipiw. Vobruvpuw esoki te nerud juul to hil tofdob segep zoktuj sapaaz ic ribhuwu ozogiwgu sohed ketadil tuavaum runhav. Me pepeer zu ikho ida ri aw hohor okitefo bo kofuwoji he wim gupa muzapa pohzifhi dosoc.",
+    "bio": "Tujebe otopod zolionu duwugwih sid ga pug jicuzi rilfizib rajrezo iki jilsid or edcog od. Ukwupub laga vi pojogbi huwawje semmu buv bouninoj ivha begbit uhijap porkicbo cut liri jibutifiz vo mota pehga. Fakum goznasle ad ebvi gewaba atte pilefu moowo da ra simabdap ronejmoh epe sud zumod ago."
+  },
+  "apiKey": "eebb860d232e5e309bcc1a8fd5d9948c25fc0789c412c1b4e867a90a18100a1e",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
