@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Le",
+    "age": 1,
+    "address": {
+        "street": "Jackson Forest",
+        "city": "North David",
+        "state": "Minnesota",
+        "zip": "48706"
+    },
+    "contact": {
+        "phone": "001-592-707-9782x015",
+        "servicePhone": "800186180"
+    },
+    "birthday": "2024-02-06",
+    "ip": "128.96.56.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Weight outside town out perform. Relate anyone office thank. Bad why few everything.\nCompany sell leg buy often. Old report card either also. Affect worker beautiful teach might.",
+        "bio": "Station else man fly million edge. Base public item modern gun. Least wish old arrive behind gun. Far natural energy administration happy road."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
