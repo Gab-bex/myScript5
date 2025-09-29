@@ -1,0 +1,25 @@
+{
+    "name": "Gina Herrera",
+    "age": 40,
+    "address": {
+        "street": "Jessica Brooks",
+        "city": "North Joshua",
+        "state": "Ohio",
+        "zip": "47538"
+    },
+    "contact": {
+        "phone": "2238586199",
+        "servicePhone": "800303608"
+    },
+    "birthday": "1985-15-06",
+    "ip": "86.66.41.231",
+    "foo": "bar",
+    "profile": {
+        "about": "You follow consumer today kind effect clearly. Role hundred local.\nTerm student church left maybe total.\nTraditional her ever. Threat race clear than painting. Would anyone paper college.",
+        "bio": "During until movie situation. Door sign capital save claim simply wear bring. Quality couple order special service simply senior."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
