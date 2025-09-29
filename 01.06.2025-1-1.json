@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Bowen",
+    "age": 10,
+    "address": {
+        "street": "Gentry Circles",
+        "city": "Port Katherine",
+        "state": "California",
+        "zip": "55293"
+    },
+    "contact": {
+        "phone": "860.885.3213",
+        "servicePhone": "800632820"
+    },
+    "birthday": "2015-12-12",
+    "ip": "25.192.10.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection occur site air agree. Very spend develop may person listen them. Magazine box remember couple always.\nRemember stage discover simple. Investment all board call east much.",
+        "bio": "Eight loss natural different analysis. Prove professional sign card hope region himself."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
